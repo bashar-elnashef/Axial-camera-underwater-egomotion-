@@ -7,7 +7,7 @@ The axial egomotion model described in our paper will be added upon publication 
 ### VAROS Synthetic Dataset Sequence [1]
 Sequence  |  Perspective represntation  |  Axial represntation
 :----------------:|:--------------------:|:--------------------:
-![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Sequence_SHIP.gif?raw=true)  |  ![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Trajectory_SHIP_perspective.gif?raw=true)  |  ![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Trajectory_SHIP_axial.gif?raw=true)
+![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Sequence_varos.gif?raw=true)  |  ![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Trajectory_Varos_perspective.gif?raw=true)  |  ![](https://github.com/bashar-elnashef/Axial-underwater-egomotion/blob/main/GIFs/Trajectory_Varos_axial.gif?raw=true)
 
 
 ### Seafloor Dataset [2]
